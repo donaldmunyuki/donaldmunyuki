@@ -35,7 +35,7 @@ Currently building - **[My Portfolio Site](https://munyuki.co.za/)**. It's comin
 
 | 🌐 Website | 💼 LinkedIn | ⚫️ X | 🐙 GitHub | 📧 Email |
 | :----------: | :--------: | :--------: | :-------: | :------: |
-| [munyuki.co.za](https://www.munyuki.co.za) | [in/donaldmunyuki](https://www.linkedin.com/in/donaldmunyuki/) | [@donaldmunyuki](https://x.com/donaldmunyuki) | [@DonaldMunyuki](https://github.com/donaldmunyuki/) | [donald@munyuki.co.za](mailto:donald@munyuki.co.za) |
+| [munyuki.co.za](https://www.munyuki.co.za) | [in/donaldmunyuki](https://www.linkedin.com/in/donaldmunyuki/) | [@donaldmunyuki](https://x.com/donaldmunyuki) | [@donaldmunyuki](https://github.com/donaldmunyuki/) | [donald@munyuki.co.za](mailto:donald@munyuki.co.za) |
 
 ---
 
