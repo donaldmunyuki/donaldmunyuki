@@ -1,6 +1,6 @@
 ## Hi, there I'm Donald👋
 
-I’m a Web Developer and Designer who strives to build high-quality web experiences through clean, maintainable code and thoughtful designs. I’m currently working as a Website Developer Freelancer.
+I’m a Web Developer who strives to build high-quality web experiences through clean, maintainable code and thoughtful designs. I’m currently working as a Website Developer Freelancer.
 
 ---
 
