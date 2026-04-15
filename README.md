@@ -4,8 +4,8 @@ I’m a Web Developer who strives to build high-quality web experiences through 
 
 ---
 
-## 👨‍💻 Work In Progress
-Currently building - **[My Portfolio Site](https://munyuki.co.za/)**. It's coming early 2026! Join the waitlist!   
+## 👨‍💻 New Portfolio Website
+Currently building - **[My Portfolio Site](https://munyuki.co.za/)**. It's coming April 15 2026! 
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +35,7 @@ Currently building - **[My Portfolio Site](https://munyuki.co.za/)**. It's comin
 
 | 🌐 Website | 💼 LinkedIn | ⚫️ X | 🐙 GitHub | 📧 Email |
 | :----------: | :--------: | :--------: | :-------: | :------: |
-| [munyuki.co.za](https://www.munyuki.co.za) | [in/donaldmunyuki](https://www.linkedin.com/in/donaldmunyuki/) | [@donaldmunyuki](https://x.com/donaldmunyuki) | [@donaldmunyuki](https://github.com/donaldmunyuki/) | [donald@munyuki.co.za](mailto:donald@munyuki.co.za) |
+| [munyuki.co.za](https://www.munyuki.co.za) | [in/donaldmunyuki](https://www.linkedin.com/in/donaldmunyuki/) | [@donaldmunyuki](https://x.com/donaldmunyuki) | [@donaldmunyuki](https://github.com/donaldmunyuki/) | [hello@munyuki.co.za](mailto:hello@munyuki.co.za) |
 
 ---
 
