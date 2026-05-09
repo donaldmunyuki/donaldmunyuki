@@ -5,7 +5,8 @@ I’m a Web Developer who strives to build high-quality web experiences through 
 ---
 
 ## 👨‍💻 New Portfolio Website
-Currently building - **[My Portfolio Site](https://munyuki.co.za/)**. It's coming April 15 2026! 
+
+- **[My Portfolio Site](https://munyuki.co.za/)**. 
 
 ## 🛠️ Tech Stack
 
