@@ -39,7 +39,7 @@ I’m a Software Developer who strives to build high-quality web experiences thr
 
 ## Let’s Connect and Collaborate on Projects and ideas.
 
-| Portfolio Website | LinkedIn Profile | X | GitHub | Prfessional Email |
+| Portfolio Website | LinkedIn Profile | X | GitHub |
 | :----------: | :--------: | :--------: | :-------: |
 | [munyuki.co.za](https://www.munyuki.co.za) | [in/donaldmunyuki](https://www.linkedin.com/in/donaldmunyuki/) | [@donaldmunyuki](https://x.com/donaldmunyuki) | [@donaldmunyuki](https://github.com/donaldmunyuki/) |
 
