@@ -1,6 +1,6 @@
 ## Hi, there I'm Donald👋
 
-I’m a Software Developer who strives to build high-quality web experiences through clean, maintainable code and thoughtful designs. I’m currently working as a Website Developer Freelancer.
+I’m a Full-Stack Developer who strives to build high-quality web experiences through clean, maintainable code and thoughtful designs. I’m currently working as a Website Developer Freelancer.
 
 ---
 
