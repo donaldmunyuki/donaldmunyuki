@@ -21,8 +21,6 @@ I’m a Full-Stack Web Developer who strives to build high-quality web experienc
 
 ---
 
----
-
 ## Let’s Connect and Collaborate on Projects and ideas.
 
 | Portfolio Website | LinkedIn Profile | X | GitHub |
