@@ -10,7 +10,7 @@ I’m a Full-Stack Web Developer who strives to build high-quality web experienc
 
 ![My Portfolio Website Image](preview.png)
 
-## Technical Stack
+## Technical Skills
 
 - **Languages & Frameworks:** PHP, JavaScript(ES6+), TypeScript, React, NextJs, Vue, Vita
 - **Styling & Design:** HTML, CSS, Tailwind CSS, Figma, Webflow, 
