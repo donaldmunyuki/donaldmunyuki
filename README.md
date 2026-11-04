@@ -6,9 +6,7 @@ I’m a Full-Stack Web Developer who strives to build high-quality web experienc
 
 ## Portfolio Website
 
-- **[My Portfolio Site](https://munyuki.co.za/)**.
-
-![](preview.png)
+![Portfolio Website](preview.png)
 
 ## Technical Skills
 
