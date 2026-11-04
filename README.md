@@ -14,6 +14,7 @@ I’m a Full-Stack Web Developer who strives to build high-quality web experienc
 - Back-End: Node.js, PHP, REST APIs, PostgreSQL, Supabase
 - CMS & Web: WordPress, Divi Builder, Responsive web development
 - Testing & Quality: Debugging, Cross-Browser/Device Testing, Lighthouse, Accessibility
+- Hosting & Deployment: cPanel hosting, GitHub, Vercel
 
 ---
 
