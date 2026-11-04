@@ -14,6 +14,7 @@ I’m a Full-Stack Web Developer who strives to build high-quality web experienc
 
 - Front-End: React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Framer Motion, Three.Js
 - Back-End: Node.js, PHP, REST APIs, PostgreSQL, Supabase
+- CMS & Web: WordPress, Divi Builder, Responsive web development
 
 ---
 
