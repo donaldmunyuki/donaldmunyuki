@@ -15,6 +15,7 @@ I’m a Full-Stack Web Developer who strives to build high-quality web experienc
 - CMS & Web: WordPress, Divi Builder, Responsive web development
 - Testing & Quality: Debugging, Cross-Browser/Device Testing, Lighthouse, Accessibility
 - Hosting & Deployment: cPanel hosting, GitHub, Vercel
+- Tools: Git, GitHub, Figma, Canva, VSCode, Photoshop
 
 ---
 
